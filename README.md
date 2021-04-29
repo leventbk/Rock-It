@@ -52,3 +52,4 @@ Built for the final project of the [Codecademy Pro Intensive - Build Front-End W
 * [style.css](https://s3.amazonaws.com/codecademy-content/programs/react/jammming/static-html-css/indexCss.txt) — all of the CSS for a static version of the website.
 * [image assets](https://s3.amazonaws.com/codecademy-content/programs/react/jammming/image_assets.zip) — all of the image assets used in the website.
 # Rock-It
+# Rock-It
