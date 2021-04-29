@@ -45,7 +45,7 @@ function App() {
 
 	return (
 		<div>
-			<a href='https://github.com/leventbk' alt='Jamming GitHub Repo'>
+			<a href='https://github.com/leventbk/Rock-it' alt='Jamming GitHub Repo'>
 				<img src='./github.png' alt='GitHub Mark' height='56' align='right' />
 			</a>
 			<h1>
