@@ -18,7 +18,7 @@ function SearchBar(props) {
 			console.warn(error);
 			const clientId = '0744a9d113234aed9830ca9b36b3be57';
 			const currentUrl = window.location.href;
-			const redirect_uri = 'https://rock-it.netlify.app';
+			// const redirect_uri = 'https://rock-it.netlify.app';
 			window.location.href = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${currentUrl}`;
 		}
 	}
